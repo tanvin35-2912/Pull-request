@@ -1,0 +1,16 @@
+printf("*********************************************\n");
+printf("WELCOME TO STUDENT DATABASE MANAGEMENT SYSTEM\n");
+printf("*********************************************\n\n\n");
+printf("\n       MAIN MENUE       ");
+    
+    printf("\n\n1. Create students record ");
+    printf("\n2. Modify student record ");
+    printf("\n3. Add student record ");
+    printf("\n4. Delete student  record ");
+    printf("\n5. Search student  record ");
+    printf("\n6. Display records of the student ");
+    printf("\n7. Calculate CGPA from the stored student record ");
+    printf("\n8. Show student record with cgpa ");
+    printf("\n9. Exit\n");
+    printf("\nplease enter your option: ");
+    scanf("%d",&ch);
